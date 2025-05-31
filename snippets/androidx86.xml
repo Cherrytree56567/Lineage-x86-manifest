@@ -44,6 +44,7 @@
   <remove-project name="LineageOS/android_system_core" />
   <remove-project name="platform/system/linkerconfig" />
   <remove-project name="LineageOS/android_system_sepolicy" />
+  <remove-project name="LineageOS/android_system_vold" />
 
   <!-- Audio -->
   <project path="external/alsa-lib" name="external_alsa-lib" remote="ag-github" revision="pie-x86" />
