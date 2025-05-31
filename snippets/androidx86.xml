@@ -19,6 +19,7 @@
   <remove-project name="platform/external/swiftshader" />
   <remove-project name="LineageOS/android_external_libncurses" />
   <remove-project name="platform/external/pciutils" />
+  <remove-project name="platform/external/erofs-utils" />
 
   <!-- Audio -->
   <project path="external/alsa-lib" name="external_alsa-lib" remote="ag-github" revision="pie-x86" />
