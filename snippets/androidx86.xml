@@ -11,6 +11,7 @@
   <remote name="hm" fetch="https://github.com/hmtheboy154" />
   <remote name="sg" fetch="https://github.com/supremegamers" />
   <remote name="gitlab" fetch="https://gitlab.com/" />
+  <remote name="BR-x86" fetch="https://github.com/BlissRoms-x86" />
 
   <remove-project name="platform/external/angle" />
   <remove-project name="platform/external/drm_hwcomposer" />
