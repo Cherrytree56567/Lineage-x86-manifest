@@ -40,4 +40,4 @@ Thanks
 
 Thanks to LineageOS Devs for the Base repo
 
-Thanks to Bliss OS for the base manifest from Android x86_64
+Thanks to @ric96 for the base manifest from Android x86_64
