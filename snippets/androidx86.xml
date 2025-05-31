@@ -46,7 +46,7 @@
   <remove-project name="LineageOS/android_system_sepolicy" />
   <remove-project name="LineageOS/android_system_vold" />
   <remove-project name="platform/system/hardware/interfaces" />
-
+  <remove-project name="toolchain/pgo-profiles" />
 
   <!-- Audio -->
   <project path="external/alsa-lib" name="external_alsa-lib" remote="ag-github" revision="pie-x86" />
