@@ -26,6 +26,7 @@
   <remove-project name="LineageOS/android_external_nano" />
   <remove-project name="LineageOS/android_external_ntfs-3g" />
   <remove-project name="LineageOS/android_device_generic_common" />
+  <remove-project name="device/generic/x86_64" />
 
   <!-- Audio -->
   <project path="external/alsa-lib" name="external_alsa-lib" remote="ag-github" revision="pie-x86" />
@@ -138,7 +139,7 @@
 
   <!-- Device tree -->
   <project path="device/generic/common" name="LineageOS/android_device_generic_common" remote="BR-x86" revision="arcadia-x86" sync-s="true" />
-  <project path="device/generic/x86_64" name="platform_device_generic_x86_64" remote="BR-x86" revision="arcadia-x86" />
+  <project path="device/generic/x86_64" name="device/generic/x86_64" remote="BR-x86" revision="arcadia-x86" />
   <project path="device/generic/x86" name="platform_device_generic_x86" remote="BR-x86" revision="arcadia-x86" />
 
   <project path="manifest" name="manifest" remote="BR-x86" revision="arcadia-x86" />
