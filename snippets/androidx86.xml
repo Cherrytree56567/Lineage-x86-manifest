@@ -21,6 +21,7 @@
   <remove-project name="platform/external/pciutils" />
   <remove-project name="platform/external/erofs-utils" />
   <remove-project name="platform/external/squashfs-tools" />
+  <remove-project name="platform/external/toybox" />
 
   <!-- Audio -->
   <project path="external/alsa-lib" name="external_alsa-lib" remote="ag-github" revision="pie-x86" />
