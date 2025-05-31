@@ -30,6 +30,7 @@
   <remove-project name="device/generic/x86" />
   <remove-project name="platform/art" />
   <remove-project name="LineageOS/android_bionic" />
+  <remove-project name="LineageOS/android_build" />
 
   <!-- Audio -->
   <project path="external/alsa-lib" name="external_alsa-lib" remote="ag-github" revision="pie-x86" />
