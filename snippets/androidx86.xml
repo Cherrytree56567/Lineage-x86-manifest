@@ -22,7 +22,7 @@
   <remove-project name="platform/external/erofs-utils" />
   <remove-project name="platform/external/squashfs-tools" />
   <remove-project name="platform/external/toybox" />
-  <remove-project name="android_external_nano" />
+  <remove-project name="LineageOS/android_external_nano" />
 
   <!-- Audio -->
   <project path="external/alsa-lib" name="external_alsa-lib" remote="ag-github" revision="pie-x86" />
@@ -118,7 +118,7 @@
   <project name="external_aosp_aptx" path="external/aosp_aptx" remote="sg" revision="master" />
 
   <!-- nano -->
-  <project name="android_external_nano" path="external/nano" remote="ag-github" revision="7.2-old" />
+  <project name="LineageOS/android_external_nano" path="external/nano" remote="ag-github" revision="7.2-old" />
 
   <!-- ntfs-3g -->
   <project name="android_external_ntfs-3g" path="external/ntfs-3g" remote="ag-github" revision="20240316" />
