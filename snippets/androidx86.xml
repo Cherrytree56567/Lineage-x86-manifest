@@ -27,6 +27,7 @@
   <remove-project name="LineageOS/android_external_ntfs-3g" />
   <remove-project name="LineageOS/android_device_generic_common" />
   <remove-project name="device/generic/x86_64" />
+  <remove-project name="device/generic/x86" />
 
   <!-- Audio -->
   <project path="external/alsa-lib" name="external_alsa-lib" remote="ag-github" revision="pie-x86" />
@@ -89,8 +90,8 @@
   <project path="external/efibootmgr" name="external_efibootmgr" remote="ag-github" revision="main" />
   <project path="external/efivar" name="external_efivar" remote="ag-github" revision="main" />
   <project path="external/evtest" name="external_evtest" remote="ag-github" revision="master" />
-  <project path="external/libncurses" name="LineageOS/android_external_libncurses" remote="ag-github" revision="6.5" />
-  <project path="external/pciutils" name="platform/external/pciutils" remote="ag-github" revision="master" />
+  <project path="external/libncurses" name="android_external_libncurses" remote="ag-github" revision="6.5" />
+  <project path="external/pciutils" name="external_pciutils" remote="ag-github" revision="master" />
   <project path="external/s2tc" name="external_s2tc" remote="ag-github" revision="r-x86" />
   <project path="external/tree" name="external_tree" remote="ag-gitlab" revision="master" />
   <project path="external/v86d" name="external_v86d" remote="ag-github" revision="r-x86" />
@@ -122,10 +123,10 @@
   <project name="external_aosp_aptx" path="external/aosp_aptx" remote="sg" revision="master" />
 
   <!-- nano -->
-  <project name="LineageOS/android_external_nano" path="external/nano" remote="ag-github" revision="7.2-old" />
+  <project name="android_external_nano" path="external/nano" remote="ag-github" revision="7.2-old" />
 
   <!-- ntfs-3g -->
-  <project name="LineageOS/android_external_ntfs-3g" path="external/ntfs-3g" remote="ag-github" revision="20240316" />
+  <project name="android_external_ntfs-3g" path="external/ntfs-3g" remote="ag-github" revision="20240316" />
 
   <!--SettingsIntelligenceGooglePrebuilt-->
   <project path="vendor/google/proprietary/SettingsIntelligenceGooglePrebuilt" name="vendor_google_proprietary_SettingsIntelligenceGooglePrebuilt" revision="12l" remote="sg" />
@@ -138,8 +139,8 @@
   <project path="bootable/aaropa" name="BlissOS/bootable_aaropa" remote="ghub" revision="arcadia-x86" />
 
   <!-- Device tree -->
-  <project path="device/generic/common" name="LineageOS/android_device_generic_common" remote="BR-x86" revision="arcadia-x86" sync-s="true" />
-  <project path="device/generic/x86_64" name="device/generic/x86_64" remote="BR-x86" revision="arcadia-x86" />
+  <project path="device/generic/common" name="device_generic_common" remote="BR-x86" revision="arcadia-x86" sync-s="true" />
+  <project path="device/generic/x86_64" name="platform_device_generic_x86_64" remote="BR-x86" revision="arcadia-x86" />
   <project path="device/generic/x86" name="platform_device_generic_x86" remote="BR-x86" revision="arcadia-x86" />
 
   <project path="manifest" name="manifest" remote="BR-x86" revision="arcadia-x86" />
