@@ -12,6 +12,7 @@
   <remote name="sg" fetch="https://github.com/supremegamers" />
 
   <remove-project name="platform/external/angle" />
+  <remove-project name="platform/external/drm_hwcomposer" />
 
   <!-- Audio -->
   <project path="external/alsa-lib" name="external_alsa-lib" remote="ag-github" revision="pie-x86" />
