@@ -14,6 +14,7 @@
   <remove-project name="platform/external/angle" />
   <remove-project name="platform/external/drm_hwcomposer" />
   <remove-project name="platform/external/libdrm" />
+  <remove-project name="platform/external/minigbm" />
 
   <!-- Audio -->
   <project path="external/alsa-lib" name="external_alsa-lib" remote="ag-github" revision="pie-x86" />
