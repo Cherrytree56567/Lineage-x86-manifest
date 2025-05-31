@@ -15,6 +15,7 @@
   <remove-project name="platform/external/drm_hwcomposer" />
   <remove-project name="platform/external/libdrm" />
   <remove-project name="platform/external/minigbm" />
+  <remove-project name="platform/external/swiftshader" />
 
   <!-- Audio -->
   <project path="external/alsa-lib" name="external_alsa-lib" remote="ag-github" revision="pie-x86" />
