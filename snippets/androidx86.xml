@@ -35,6 +35,7 @@
   <remove-project name="LineageOS/android_bootable_recovery" />
   <remove-project name="LineageOS/android_external_e2fsprogs" />
   <remove-project name="platform/external/libcxx" />
+  <remove-project name="LineageOS/android_external_mksh" />
 
   <!-- Audio -->
   <project path="external/alsa-lib" name="external_alsa-lib" remote="ag-github" revision="pie-x86" />
