@@ -34,3 +34,10 @@ All supported devices are built weekly and periodically as changes are committed
 You can view the current build statuses at [LineageOS Buildkite](https://buildkite.com/lineageos).
 
 Builds produced weekly by the buildbot can be downloaded from [LineageOS downloads](https://download.lineageos.org/).
+
+Thanks
+------
+
+Thanks to LineageOS Devs for the Base repo
+
+Thanks to Bliss OS for the base manifest from Android x86_64
