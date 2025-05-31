@@ -43,6 +43,7 @@
   <remove-project name="LineageOS/android_packages_modules_Wifi" />
   <remove-project name="LineageOS/android_system_core" />
   <remove-project name="platform/system/linkerconfig" />
+  <remove-project name="LineageOS/android_system_sepolicy" />
 
   <!-- Audio -->
   <project path="external/alsa-lib" name="external_alsa-lib" remote="ag-github" revision="pie-x86" />
