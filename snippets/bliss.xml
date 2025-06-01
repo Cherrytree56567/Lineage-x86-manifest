@@ -18,6 +18,7 @@
   
   <remove-project name="platform/cts" />
   <remove-project name="platform/external/pdfium" />
+  <remove-project name="platform_art" />
 
   <!-- ASB -->
   <project path="cts" name="platform_cts" groups="cts,pdk-cw-fs,pdk-fs" remote="BlissRoms" />
