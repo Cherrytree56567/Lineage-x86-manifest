@@ -16,12 +16,6 @@
   <remote name="BR-x86" 
           fetch="https://github.com/BlissRoms-x86" />
 
-  <remote name="github"
-          fetch="https://github.com/" />
-
-  <remote name="gitlab"
-          fetch="https://gitlab.com/" />
-
   <!-- ASB -->
   <project path="cts" name="platform_cts" groups="cts,pdk-cw-fs,pdk-fs" remote="BlissRoms" />
   <project path="external/pdfium" name="platform_external_pdfium" groups="pdk" remote="BlissRoms" />
