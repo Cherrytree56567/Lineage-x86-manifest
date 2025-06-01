@@ -45,6 +45,7 @@
   <remove-project name="device_bliss_sepolicy" />
   <remove-project name="LineageOS/android_device_qcom_sepolicy" />
   <remove-project name="LineageOS/android_system_bpf" />
+  <remove-project name="LineageOS/android_system_bt" />
 
 
   <!-- ASB -->
