@@ -15,6 +15,8 @@
   
   <remote name="BR-x86" 
           fetch="https://github.com/BlissRoms-x86" />
+  
+  <remove-project name="platform/cts" />
 
   <!-- ASB -->
   <project path="cts" name="platform_cts" groups="cts,pdk-cw-fs,pdk-fs" remote="BlissRoms" />
