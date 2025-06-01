@@ -17,6 +17,7 @@
           fetch="https://github.com/BlissRoms-x86" />
   
   <remove-project name="platform/cts" />
+  <remove-project name="platform/external/pdfium" />
 
   <!-- ASB -->
   <project path="cts" name="platform_cts" groups="cts,pdk-cw-fs,pdk-fs" remote="BlissRoms" />
