@@ -26,6 +26,7 @@
   <remove-project name="platform/libcore" />
   <remove-project name="platform/external/tinyxml" />
   <remove-project name="platform/external/webp" />
+  <remove-project name="platform_frameworks_base" />
 
   <!-- ASB -->
   <project path="cts" name="platform_cts" groups="cts,pdk-cw-fs,pdk-fs" remote="BlissRoms" />
