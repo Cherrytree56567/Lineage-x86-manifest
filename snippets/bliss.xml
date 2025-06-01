@@ -38,7 +38,7 @@
   <remove-project name="LineageOS/android_packages_modules_Connectivity" />
   <remove-project name="LineageOS/android_packages_modules_adb" />
   <remove-project name="LineageOS/android_packages_modules_Permission" />
-  <remove-project name="LineageOS/android_packages_modules_Wifi" />
+  <remove-project name="platform_packages_modules_Wifi" />
   <remove-project name="platform/packages/modules/DnsResolver" />
   <remove-project name="LineageOS/android_packages_providers_DownloadProvider" />
   <remove-project name="LineageOS/android_packages_providers_TelephonyProvider" />
