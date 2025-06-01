@@ -24,7 +24,6 @@
   <remove-project name="platform_build" />
   <remove-project name="LineageOS/android_build_soong" />
   <remove-project name="platform/libcore" />
-  <remove-project name="platform/external/tinyxml" />
   <remove-project name="platform/external/webp" />
   <remove-project name="platform_frameworks_base" />
   <remove-project name="frameworks_av" />
@@ -80,7 +79,6 @@
   <project path="libcore" name="platform_libcore" remote="BlissRoms" />
 
   <!-- External -->
-  <project path="external/tinyxml" name="platform/external/tinyxml" groups="pdk" revision="refs/tags/android-11.0.0_r45" />
   <project path="external/faceunlock" name="external_unlock" remote="BlissRoms-gitlab" />
   <project path="external/colorkt" name="platform_external_colorkt" remote="BlissRoms" />
   <project path="external/themelib" name="platform_external_themelib" remote="BlissRoms" />
