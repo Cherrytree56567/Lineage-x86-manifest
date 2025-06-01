@@ -20,7 +20,7 @@
   <remove-project name="platform/external/pdfium" />
   <remove-project name="platform_art" />
   <remove-project name="platform_bionic" />
-  <remove-project name="platform_bootable" />
+  <remove-project name="platform_bootable_recovery" />
   <remove-project name="platform_build" />
 
   <!-- ASB -->
