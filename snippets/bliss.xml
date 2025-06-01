@@ -31,6 +31,7 @@
   <remove-project name="frameworks_native" />
   <remove-project name="LineageOS/android_frameworks_opt_telephony" />
   <remove-project name="LineageOS/android_hardware_lineage_livedisplay" />
+  <remove-project name="LineageOS/android_hardware_qcom_media" />
 
   <!-- ASB -->
   <project path="cts" name="platform_cts" groups="cts,pdk-cw-fs,pdk-fs" remote="BlissRoms" />
