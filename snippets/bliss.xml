@@ -42,7 +42,8 @@
   <remove-project name="platform/packages/modules/DnsResolver" />
   <remove-project name="LineageOS/android_packages_providers_DownloadProvider" />
   <remove-project name="LineageOS/android_packages_providers_TelephonyProvider" />
-
+  <remove-project name="device_bliss_sepolicy" />
+  <remove-project name="LineageOS/android_device_qcom_sepolicy" />
   <!-- ASB -->
   <project path="cts" name="platform_cts" groups="cts,pdk-cw-fs,pdk-fs" remote="BlissRoms" />
   <project path="external/pdfium" name="platform_external_pdfium" groups="pdk" remote="BlissRoms" />
